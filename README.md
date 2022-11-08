@@ -1,3 +1,3 @@
 # group-project
 
-# vim rules nano drools
+## noam t. and matt h.
