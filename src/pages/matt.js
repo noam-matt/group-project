@@ -15,8 +15,22 @@ export default function page() {
                 />
 
                 <p className='description'>
-
+                    I'm a CS student @ Boulder, interested in Robotics and Computer Graphics.
                 </p>
+                <h2>Skills</h2>
+                <ul>
+                    <li>Java</li>
+                    <li>c++</li>
+                    <li>RUST</li>
+                    <li>c#</li>
+                </ul>
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Skiing</li>
+                    <li>Tennis</li>
+                    <li>Wheel Pottery</li>
+                    <li>Woodcraft</li>
+                </ul>
 
 
                 <a className='button' href='/'>
