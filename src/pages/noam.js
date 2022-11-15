@@ -6,14 +6,31 @@ export default function page() {
 
             <main>
                 <div className='underline'>
-                    <h1 className='title'>Noam</h1>
+                    <h1 className='title'>Hi, I'm Noam</h1> 
                 </div>
+                <img className='pic' src='https://avatars.githubusercontent.com/u/51915849?s=400&u=aa6de1595b78eb02c7dff5ab49a8ea13613f46dd&v=4' alt='profile picture'></img>
+
 
                 <p className='description'>
-
+                I'm a student at The University of Colorado at Boulder. Interested in Robotics and Artificial Intelligence.
                 </p>
-
-
+                <h2>Skills</h2>
+                <ul>
+                  <li>Devops</li>
+                  <li>Full Stack</li>
+                  <li>Python</li>
+                  <li>Flask</li>
+                  <li>Arduino</li>
+                  <li>RobotC</li>
+                  <li>C++</li>
+                </ul> 
+                <h2>Hobbies</h2>
+                <ul>
+                  <li>Snowboarding</li>
+                  <li>Mountaineering</li>
+                  <li>Kayaking</li>
+                  <li>Climbing</li>
+                </ul>
                 <a className='button' href='/'>
                     <p> Back to Home Page</p>
                 </a>

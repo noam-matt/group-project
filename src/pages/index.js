@@ -26,6 +26,7 @@ export default function Home() {
                 <div className='grid'>
                     <a href='/noam' className='card'>
                         <h3>Noam's page &rarr;</h3>
+                        <Image src="https://avatars.githubusercontent.com/u/51915849?s=400&u=aa6de1595b78eb02c7dff5ab49a8ea13613f46dd&v=4" alt="noam" width="230" height="230"/>
                     </a>
                 </div>
             </main>
